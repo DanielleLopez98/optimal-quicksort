@@ -1,0 +1,3 @@
+C:/Users/danir/OneDrive/Documents/CS 6420/SortingAlgorithms/OptimalQuickSort/cmake-build-debug/CMakeFiles/OptimalQuickSort.dir
+C:/Users/danir/OneDrive/Documents/CS 6420/SortingAlgorithms/OptimalQuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danir/OneDrive/Documents/CS 6420/SortingAlgorithms/OptimalQuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
